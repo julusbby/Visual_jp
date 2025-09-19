@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "one-liner-joke": "^1.2.2"
+  },
+  "name": "visual_jp",
+  "version": "1.0.0",
+  "description": "escribir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "juli",
+  "license": "ISC"
+}
