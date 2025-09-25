@@ -52,4 +52,4 @@ reporteStockBajo()
 productos.forEach(producto => {
     console.log(producto)
 })
-
+//carolina te odio
